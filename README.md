@@ -44,7 +44,7 @@ The Payment Calculator is a simple web application that helps users calculate th
     cd payment-calculator
     ```
 
-2. **Open the `index.html` file in your web browser to start using the Payment Calculator.**
+2. **Open the `calculator.html` file in your web browser to start using the Payment Calculator.**
 
 ## Usage
 
